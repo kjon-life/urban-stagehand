@@ -127,13 +127,6 @@ class DataModel:
 - Data protection
 - Compliance requirements
 
-## Rollout Strategy
-1. Development phase
-2. Testing phase
-3. Staging deployment
-4. Production deployment
-5. Monitoring period
-
 ## References
 - Related design documents
 - External documentation

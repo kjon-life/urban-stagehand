@@ -9,6 +9,11 @@
   </ul>
 </div>
 <p align="center">
+  <strong>Read This To Restart The Project</strong><br>
+  <a href="./docs/design/2024-12-19-apisec-scanner.md">Design Document</a>
+</p>
+
+<p align="center">
   <strong>The AI Browser Automation Framework</strong><br>
   <a href="https://docs.stagehand.dev">Read the Docs</a>
 </p>
